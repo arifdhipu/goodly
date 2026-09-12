@@ -1,4 +1,12 @@
 #EXTM3U
+#PLAYLIST: Goodly IPTV
+#EXTENC: UTF-8
+
+# Playlist Name: iptv
+# Last Update: 06:10 PM 12-09-2026
+# Facebook Page: https://www.facebook.com/arifdhipu
+# Telegram: t.me/arifdhipubd
+
 #EXTINF:-1 tvg-logo="https://imgur.com/ocyTxpw.png" group-title="SkyM3U Promo",Skym3u Official - Visit Skym3u.dev
 https//example.m3u8
 #EXTINF:-1 tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/00da8a07fb26b2fb79359ee535e4c7bc" tvg-chno="1",BTV CTG
